@@ -1,10 +1,4 @@
-# transcript_ocr
-
-Here's the English version of the `README.md` for your GitHub project:
-
----
-
-# 🧮 AutoGrade OCR
+# transcript ocr
 
 > No more manually typing scores into a calculator! Just upload a screenshot — this tool will automatically read the text and help you calculate what score you need on your next exam.
 
