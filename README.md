@@ -1,4 +1,4 @@
-# transcript ocr
+# Transcript OCR
 
 > No more manually typing scores into a calculator! Just upload a screenshot — this tool will automatically read the text and help you calculate what score you need on your next exam.
 
