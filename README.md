@@ -4,14 +4,14 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **AutoGrade OCR** is a lightweight tool designed to help students (and teachers) calculate the scores they need on upcoming exams — just by analyzing a screenshot of their grade summary.
 Instead of typing scores into a calculator manually, this tool uses **OCR (Optical Character Recognition)** to extract text from images and process the data automatically.
 
 ---
 
-## ✨ Features
+## Features
 
 * Extracts text from screenshots using Tesseract OCR
 * Simple web interface using Gradio
@@ -19,7 +19,7 @@ Instead of typing scores into a calculator manually, this tool uses **OCR (Optic
 
 ---
 
-## 🔧 Requirements
+## Requirements
 
 * Python 3.8+
 * Tesseract OCR (installed separately)
@@ -34,7 +34,7 @@ pip install gradio pytesseract pillow
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Install Tesseract OCR**
 
@@ -52,7 +52,7 @@ pytesseract.pytesseract.tesseract_cmd = r'C:/Your/Path/To/tesseract.exe'
 
 ---
 
-## 🚀 Usage
+## Usage
 
 1. Put your screenshot as `sample.png` in the same folder
 2. Run the OCR script:
@@ -73,7 +73,7 @@ This opens a simple greeting interface. You can extend this interface to include
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 ├── app.py              # Gradio interface (currently basic placeholder)
@@ -83,7 +83,7 @@ This opens a simple greeting interface. You can extend this interface to include
 
 ---
 
-## 🚧 To-Do / Planned Features
+## To-Do / Planned Features
 
 * Extract numerical data from OCR text
 * Calculate required future exam scores based on user goals
@@ -92,7 +92,7 @@ This opens a simple greeting interface. You can extend this interface to include
 
 ---
 
-## 👤 Author
+## Author
 
 **Seonwoo Kang**
 sunwoo99999@gmail.com
