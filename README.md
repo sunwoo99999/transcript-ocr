@@ -98,7 +98,3 @@ This opens a simple greeting interface. You can extend this interface to include
 sunwoo99999@gmail.com
 Building smart tools to make learning and life easier.
 Feel free to contribute, fork, or reach out with ideas!
-
----
-
-Let me know if you'd like this as a downloadable `README.md` file, or if you plan to change the Gradio interface to calculate scores automatically — I can update this accordingly.
